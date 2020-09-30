@@ -11,5 +11,3 @@ passport-local
 dotenv 
 nodemon 
 handlebars
-
-+-Enter Here:_
